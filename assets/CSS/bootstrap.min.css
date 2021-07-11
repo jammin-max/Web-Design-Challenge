@@ -204,7 +204,7 @@ input[type=search]::-webkit-search-decoration {
 fieldset {
     padding: .35em .625em .75em;
     margin: 0 2px;
-    border: 1px solid silver
+    border: 1px solid rgb(134, 21, 21)
 }
 
 legend {
@@ -259,7 +259,7 @@ th {
     }
     blockquote,
     pre {
-        border: 1px solid #999;
+        border: 1px solid rgb(138, 41, 41);
         page-break-inside: avoid
     }
     thead {
