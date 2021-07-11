@@ -61,3 +61,6 @@ Finally, the website must be deployed to GitHub pages.
 When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
 
 Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+
+Link to git hub: https://github.com/jammin-max/Web-Design-Challenge.git
+Link to git hub pages
